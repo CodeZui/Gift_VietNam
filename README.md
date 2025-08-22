@@ -1,5 +1,7 @@
 # Những lá cờ Việt Nam
 
+>Hướng dẫn sử dung: [Xem tại đây](https://github.com/CodeZui/Gift_VietNam/blob/main/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20FilePython.pdf) 
+
 <table>
   <tr>
     <th>Cờ Đỏ Sao Vàng<br>Nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam</th>
